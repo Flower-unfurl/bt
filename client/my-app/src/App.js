@@ -6,8 +6,9 @@ function App() {
     <div className="App">
         <label>Username: </label>
         <input id='txtusername' ></input>
-        <label>Mật khẩu: </label>
-        <input id='txtmatkhau' ></input>
+        <label>Password: </label>
+        <input id='txtpassword' ></input>
+        <button id='btnlogin'>Login</button>
     </div>
   );
 }
