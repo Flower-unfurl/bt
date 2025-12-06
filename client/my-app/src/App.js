@@ -8,7 +8,7 @@ function App() {
         <input id='txtusername' ></input>
         <label>Password: </label>
         <input id='txtpassword' ></input>
-        <button id='btnlogin'>Login</button>
+        <button id='btnDangNhap'>Đăng nhập</button>
     </div>
   );
 }
